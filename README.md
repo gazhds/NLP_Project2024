@@ -6,3 +6,5 @@ The notebook model_train.ipynb was used to train the model and save it to the Hu
 Then the model can be loaded to make predictions in load_model.ipynb. Code can be run like a regular Jupyter notebook and has instructions on how to load different models and make a prediction with them.
 
 Perturbations to the data were made with code in introducing_noise.ipynb and plots used in the report are from Analysis_results.ipynb.
+
+The project was for an IT Univeristy of Copenhagen NLP course and was used for our final exam in the course. Our group consisted of Gabriela Zhelyazkova, Cristina Avram, Lili Raleva and Bozhidara Pesheva.
